@@ -94,6 +94,7 @@ p{
     /* background-color: beige; */
     height: 300px;
     width: 500px;
+    
     position: relative;
     /* background-color: bisque; */
     /* z-index: 0; */
@@ -273,8 +274,11 @@ footer a{
         position: absolute;
         left: 200px;
     }
+
+   
+
     nav{
-        right: 0;
+        left: 0;
         top: 30px;
     }
 }
